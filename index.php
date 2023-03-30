@@ -5,14 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- link icon -->
-    <!-- link css -->
+    <link rel="stylesheet" href="./css/bootstrap.css">
+    <link rel="stylesheet" href="./css/custom.css">
     <!-- link external font -->
     <title>Document</title>
 </head>
 <body>
 <div class="container"> <!-- selalu buat content didalam container -->
-    <div id="root"></div> <!-- pemanggilan DOM di Javascript -->
+    
 </div>
-<!-- link js -->
+<script src="./js/bootstrap.js"></script>
 </body>
 </html>
